@@ -5,7 +5,7 @@ int main()
 	int h=7;
 	while(h--)
 	{
-		printf("Git Person: Hello Spincy \n");
+		printf("Git Person: Hello SpincyAlex \n");
 		sleep(1);
 	}
 	return 0;
