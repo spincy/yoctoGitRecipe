@@ -4,7 +4,7 @@
 CFLAGS  = -g -Wall -DUSE_SYSCALL -DUSE_FILESYS 
 
 # the name to use for both the target source file, and the output file:
-TARGET = userprog
+TARGET = usergit
 
 all: $(TARGET)
 
